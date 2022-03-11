@@ -11,9 +11,41 @@ function Home() {
         leftBtnText="Custom order"
         rightBtnText="Existing inventory"
       />
-      {/* <Section />
-      <Section />
-      <Section /> */}
+      <Section
+        title="Model Y"
+        description="Order Online for Touchless Delivery"
+        backgroundImg="model-Y.jpg"
+        leftBtnText="Custom order"
+        rightBtnText="Existing inventory"
+      />
+      <Section
+        title="Model X"
+        description="Order Online for Touchless Delivery"
+        backgroundImg="model-x.jpg"
+        leftBtnText="Custom order"
+        rightBtnText="Existing inventory"
+      />
+      <Section
+        title="Model 3"
+        description="Order Online for Touchless Delivery"
+        backgroundImg="model-3.jpg"
+        leftBtnText="Custom order"
+        rightBtnText="Existing inventory"
+      />
+      <Section
+        title="Solar and Powerwall "
+        description="Power Everything"
+        backgroundImg="solarpanels.jpg"
+        leftBtnText="Order now"
+        rightBtnText="Learn more"
+      />
+      <Section
+        title="Accessories"
+        description=""
+        backgroundImg="mobile-accessories.jpg"
+        leftBtnText="Order now"
+        rightBtnText="Learn more"
+      />
     </Container>
   );
 }
