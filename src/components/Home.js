@@ -36,15 +36,13 @@ function Home() {
         title="Solar and Powerwall "
         description="Power Everything"
         backgroundImg="solarpanels.jpg"
-        leftBtnText="Order now"
-        rightBtnText="Learn more"
+        leftBtnText="Learn more"
       />
       <Section
         title="Accessories"
         description=""
         backgroundImg="mobile-accessories.jpg"
-        leftBtnText="Order now"
-        rightBtnText="Learn more"
+        leftBtnText="Shop now"
       />
     </Container>
   );
